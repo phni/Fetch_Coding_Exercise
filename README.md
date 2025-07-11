@@ -1,6 +1,6 @@
 # Fetch Coding Exercise
 
-## How to Use (For Interviewers/Evaluators)
+## How to Use
 
 This package was created as part of an interview exercise to demonstrate SQL and Python data engineering skills. Please focus your evaluation on the `notebook.ipynb` file, which provides a complete, step-by-step workflow:
 
